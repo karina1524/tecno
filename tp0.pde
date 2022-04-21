@@ -1,0 +1,12 @@
+size(600,600);
+background(#EA5D15);
+fill(#7E23DB);
+ellipse(300,300,300,300);
+fill(#7E23DB);
+textSize(30);
+text("Tecnologia Multimedial",139,50);
+line(100,100,400,400);
+line(100,400,400,400);
+line(100,100,100,400);
+line(400,100,100,100);
+line(400,100,100,400);
